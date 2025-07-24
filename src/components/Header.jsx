@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="bg-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center p-4">
-        <h1 className="text-2xl font-bold text-gray-800">Aya Ibrahim</h1>
+        <h1 className="text-2xl font-bold text-gray-800"></h1>
         
         <nav>
           <ul className="flex space-x-6 text-gray-700 font-medium">

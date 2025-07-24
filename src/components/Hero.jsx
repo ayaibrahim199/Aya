@@ -1,6 +1,6 @@
 // src/components/HeroSection.jsx
 import React from 'react';
-import profilePic from '../assets/IMG_1633.jpg';
+import profilePic from '../assets/you.png';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
 function HeroSection() {
@@ -16,8 +16,7 @@ function HeroSection() {
       />
       <h1 className="text-5xl font-bold mb-3 text-gray-800">Aya Ibrahim</h1>
       <p className="max-w-xl text-gray-600 mb-6 text-lg">
-        Software Engineer passionate about building scalable web applications.
-      </p>
+      Full-Stack JavaScript Developer | Node.js | MongoDB | Building Scalable Web Applications      </p>
       <div className="flex space-x-8 text-gray-600 text-3xl">
         <a
           href="https://www.linkedin.com/in/ayaaqel/"
