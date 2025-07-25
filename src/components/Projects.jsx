@@ -4,22 +4,18 @@ const projectsData = [
   {
     title: 'Homemade Catering Website',
     description: 'A professional React website for a catering business with responsive design and elegant UI.',
-    link: '#',
+    link: 'https://github.com/ayaibrahim199/homemade-catering',
   },
   {
     title: 'Portfolio',
     description: 'A portfolio , designed with React and Tailwind CSS.',
     link: 'https://ahmed-coral.vercel.app/',
   },
+  
   {
-    title: 'React To-Do App',
-    description: 'A simple yet functional to-do app built with React for task management.',
-    link: '',
-  },
-  {
-    title: 'Weather App',
-    description: 'A weather forecasting app using React and OpenWeatherMap API.',
-    link: '#',
+    title: 'Code with Aya',
+    description: '',
+    link: 'https://code-with-aya.vercel.app/',
   },
   {
     title: 'Tip top ',
@@ -28,20 +24,12 @@ const projectsData = [
   },
   
   
-  {
-    title: 'Calculator App',
-    description: 'A fully functional calculator using React hooks and state management.',
-    link: '#',
-  },
-  {
-    title: 'Chat Application',
-    description: 'A real-time chat app using React and Firebase for messaging.',
-    link: '#',
-  },
+  
+
   {
     title: 'Portfolio Website',
     description: 'A clean portfolio showcasing skills and projects with smooth scrolling.',
-    link: '#',
+    link: 'https://github.com/ayaibrahim199/Dr_Emad',
   },
 ];
 
